@@ -1,0 +1,18 @@
+.red{
+    background-color: burlywood;
+}
+.red:focus{
+    background-color: burlywood;
+}
+.blue{
+    background-color: aquamarine;
+}
+.blue:focus{
+    background-color: aquamarine;
+}
+.dark{
+    background-color: darkgrey;
+}
+.dark:focus{
+    background-color: darkgrey;
+}
